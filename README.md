@@ -1,2 +1,1 @@
-# website
-Just a demo website.
+TinDog Starting Files
